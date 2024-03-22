@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qt5layouts/en_US/dialpad.fallback</file>
+        <file>qt5layouts/en_US/digits.fallback</file>
+        <file>qt5layouts/en_US/handwriting.fallback</file>
+        <file>qt5layouts/en_US/main.fallback</file>
+        <file>qt5layouts/en_US/numbers.fallback</file>
+        <file>qt5layouts/en_US/symbols.fallback</file>
+        <file>qt5layouts/fallback/dialpad.qml</file>
+        <file>qt5layouts/fallback/digits.qml</file>
+        <file>qt5layouts/fallback/handwriting.qml</file>
+        <file>qt5layouts/fallback/main.qml</file>
+        <file>qt5layouts/fallback/numbers.qml</file>
+        <file>qt5layouts/fallback/symbols.qml</file>
+    </qresource>
+</RCC>
